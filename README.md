@@ -294,15 +294,16 @@ WHERE (CAST(c.internet_users AS REAL) * 100 / c.population) BETWEEN 75 AND 85
    - Количество добавленных записей в БД
 
 2. **Задача 1 (график):** Процентное соотношение интернет-пользователей по субрегионам
-   - Результат сохраняется в файл `output/Задача_1_Percentage_By_Subregion.txt`
-   - График сохраняется в `charts/chart_percentage_by_subregion.png`
-   - ![img.png](img.png)
-   - ![img_1.png](img_1.png)
+   - Результат сохраняется в файл [`output/Задача_1_Percentage_By_Subregion.txt`](output/Задача_1_Percentage_By_Subregion.txt)
+   - График сохраняется в [`data/chart_percentage_by_subregion.png`](data/chart_percentage_by_subregion.png)
+   - Визуализация выполняется классом [`Visualizer.java`](src/main/java/org/example/visualize/Visualizer.java)
+     ![img.png](img.png)
+     ![img_1.png](img_1.png)
 
 3. **Задача 2:** Страна с наименьшим количеством интернет-пользователей в Восточной Европе
-   - Результат сохраняется в файл `output/Задача_2_Lowest_Eastern_Europe.txt`
+   - Результат сохраняется в файл [`output/Задача_2_Lowest_Eastern_Europe.txt`](output/Задача_2_Lowest_Eastern_Europe.txt)
 
 4. **Задача 3:** Страна с процентом интернет-пользователей от 75% до 85%
-   - Результат сохраняется в файл `output/Задача_3_Percentage_Range.txt`
+   - Результат сохраняется в файл [`output/Задача_3_Percentage_Range.txt`](output/Задача_3_Percentage_Range.txt)
 
 ---
