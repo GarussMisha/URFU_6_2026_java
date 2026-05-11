@@ -292,13 +292,14 @@ WHERE (CAST(c.internet_users AS REAL) * 100 / c.population) BETWEEN 75 AND 85
 1. **Экспорт данных:**
    - Количество прочитанных стран из CSV
    - Количество добавленных записей в БД
+   - ![img_2.png](output/img_2.png)
 
 2. **Задача 1 (график):** Процентное соотношение интернет-пользователей по субрегионам
    - Результат сохраняется в файл [`output/Задача_1_Percentage_By_Subregion.txt`](output/Задача_1_Percentage_By_Subregion.txt)
    - График сохраняется в [`data/chart_percentage_by_subregion.png`](data/chart_percentage_by_subregion.png)
    - Визуализация выполняется классом [`Visualizer.java`](src/main/java/org/example/visualize/Visualizer.java)
-     ![img.png](img.png)
-     ![img_1.png](img_1.png)
+     ![img.png](output/img.png)
+     ![img_1.png](output/img_1.png)
 
 3. **Задача 2:** Страна с наименьшим количеством интернет-пользователей в Восточной Европе
    - Результат сохраняется в файл [`output/Задача_2_Lowest_Eastern_Europe.txt`](output/Задача_2_Lowest_Eastern_Europe.txt)
