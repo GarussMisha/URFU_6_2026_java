@@ -1,0 +1,26 @@
+============================================================
+Процентное соотношение интернет-пользователей по субрегионам:
+Дата выполнения: 2026-05-11 21:36:13
+
+  Northern Europe: 94,62%
+  Western Europe: 92,13%
+  Northern America: 88,88%
+  Australia, New Zealand: 85,80%
+  Southern Europe: 83,44%
+  Eastern Europe: 80,75%
+  Eastern Asia: 73,58%
+  Western Asia: 73,00%
+  South America: 70,09%
+  South-eastern Asia: 68,02%
+  Southern Asia: 60,96%
+  Polynesia: 53,88%
+  Southern Africa: 52,97%
+  Northern Africa: 52,15%
+  Central Asia: 50,10%
+  Central America: 49,74%
+  Caribbean: 48,35%
+  Western Africa: 47,56%
+  Micronesia: 46,08%
+  Eastern Africa: 22,55%
+  Melanesia: 16,31%
+  Middle Africa: 11,78%
